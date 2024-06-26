@@ -1,0 +1,11 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Calculate, for each food type, the average pH and the difference between the maximum and minimum pH values.
+
+name the columns: type, ph_average, ph_max_min_diff.
+
+Sort the results by the difference in descending order.
+
+Use the ROUND(value, decimal) to round each result to two decimal places.
