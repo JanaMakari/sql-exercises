@@ -1,0 +1,7 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+You have a cyber security firm that experienced an arbitrary attack, resulting in all of your systems shutting down. To solve this issue, you need to identify all of the events that appear suspicious. A suspicious event is either too small or too big, it was created before the year 2000, or it has a missing name.
+
+The average normal event size is 50MB, so investigate the table to understand what is considered "too small" or "too big". Return the event IDs and their names in descending order by their ID.
