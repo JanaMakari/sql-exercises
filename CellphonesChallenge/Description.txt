@@ -1,0 +1,7 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Fetch all of the cellphone models that start with the letter m and the 3rd letter is o, the price range is between 1000 and 1500, and they support 5G.
+
+Return only the cellphone model and replace the name to id
