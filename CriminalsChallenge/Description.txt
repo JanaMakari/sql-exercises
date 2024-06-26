@@ -1,0 +1,10 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Fetch the top 5 severe criminal names in descending order (by severe_score) that are not listed in the police report.
+A severe criminal is someone who matches the following criteria:
+
+report is either empty, or the report contains one of the following letters: g, b, G, or B.
+map is one of the following places: Caerleon, Dewsbury, Kirekwall, Findochty.
+Name the column as worst_criminals.
