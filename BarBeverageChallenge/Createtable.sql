@@ -1,6 +1,6 @@
 -- Create the beverages table
 CREATE TABLE beverages (
-    id INT,
+    id INT PRIMARY KEY,
     current_year INT,
     expiration_year INT
 );
