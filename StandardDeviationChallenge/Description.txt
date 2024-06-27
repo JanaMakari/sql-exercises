@@ -1,0 +1,13 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Standard deviation is a way to measure how much a set of values varies or spreads out.
+
+The formula is:
+
+\sigma={\sqrt {\frac {\sum(x_{i}-{\mu})^{2}}{N}}}
+The formula in words:
+
+The sum of the difference between the price to the mean (average) price in the power of 2 divided by the number of values in the total
+Return the squared STD of the prices. name the column as STD.
