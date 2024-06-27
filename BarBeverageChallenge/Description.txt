@@ -1,0 +1,11 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Your bar stocks a vast selection of juices, some of which have expired. Identify and sort these juices based on how they should be processed, according to the following criteria:
+
+Old Expired Juices: These are juices where the expiration year is more than 6 years before the current year. These should be recycled.
+Almost Expired Juices: These are juices expiring this year or the next year. These can be sent for renewal.
+Extract the IDs of juices that are either old expired or almost expired. Sort the results based on the urgency of their processing needs, with those needing immediate attention (greater difference between current year and expiration year) first.
+
+Rename the ID column to `to_renew` in your output.
