@@ -1,0 +1,11 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+As the manager of a scooter shop, you have noticed that many scooters are not original, meaning they are missing a model name. Furthermore, bad scooters typically do not have lights.
+
+Your task involves two steps:
+
+First, Add to all scooter prices in the shop the overall average price.
+Then, Calculate the average price for each brand, considering only good and original scooters (i.e., scooters with a model name and lights).
+The result should include the brand and the average price - avg_price. Sort the results by the average price in ascending order.
