@@ -1,0 +1,9 @@
+This folder contains a SQL query of a challenge from the website coddy.tech. It includes the query for creating the desired table and the query that is the answer for the challenge.
+
+### Challenge Description
+
+Every second minister in the government is considered a "safe" minister. Your job is to return all of the "safe" ministers sits that want to continue serving in the next government while excluding any minister who spoke a bad word.
+
+The result should contain only the relevant sits.
+
+Before starting to solve the challenge take a look at the table data. It is not clean.
